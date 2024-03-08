@@ -2,8 +2,7 @@
 
 ### 🍜 Case Study #1 - Danny's Diner
 
-### Table Of Contents
-🛠️ Problem Statement
+### Table Of Contents🛠️ Problem Statement
 📂 Dataset  
 🧙‍♂️ Case Study Questions
 🚀 Solutions
