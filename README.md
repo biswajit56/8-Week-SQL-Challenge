@@ -4,11 +4,10 @@
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ndleah?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ndleah)
 
-# 🍜 Case Study #1 - Danny's Diner
-<p align="center">
-<img src="/IMG/org-1.png" width=40% height=40%>
+#  Case Study #1 - Danny's Diner
 
-## 📕 Table Of Contents
+
+##  Table Of Contents
 * 🛠️ [Problem Statement](#problem-statement)
 * 📂 [Dataset](#dataset)
 * 🧙‍♂️ [Case Study Questions](#case-study-questions)
@@ -91,8 +90,6 @@ The final members table captures the ```join_date``` when a ```customer_id``` jo
  </details>
 
 ## 🧙‍♂️ Case Study Questions
-<p align="center">
-<img src="https://media3.giphy.com/media/JQXKbzdLTQJJKP176X/giphy.gif" width=80% height=80%>
 
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
