@@ -1,22 +1,18 @@
 # [8-Week SQL Challenge](https://github.com/ndleah/8-Week-SQL-Challenge) 
-![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
-[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-971901?)](https://github.com/ndleah/8-Week-SQL-Challenge)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ndleah?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ndleah)
 
 #  Case Study #1 - Danny's Diner
 
 
 ##  Table Of Contents
-* 🛠️ [Problem Statement](#problem-statement)
-* 📂 [Dataset](#dataset)
-* 🧙‍♂️ [Case Study Questions](#case-study-questions)
-* 🚀 [Solutions](#solutions)
-* 🐋 [Limitations](#limitations)
+*  [Problem Statement]
+*  [Dataset]
+*  [Case Study Questions]
+*  [Solutions]
+*  [Limitations]
   
 ---
 
-## 🛠️ Problem Statement
+##  Problem Statement
 
 > Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
 
@@ -24,7 +20,7 @@
 
 ---
 
-## 📂 Dataset
+##  Dataset
 Danny has shared with you 3 key datasets for this case study:
 
 ### **```sales```**
@@ -89,7 +85,7 @@ The final members table captures the ```join_date``` when a ```customer_id``` jo
 
  </details>
 
-## 🧙‍♂️ Case Study Questions
+##  Case Study Questions
 
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
