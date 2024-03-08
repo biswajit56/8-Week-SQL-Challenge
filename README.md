@@ -4,11 +4,11 @@
 
 
 ##  Table Of Contents
-*  [Problem Statement]
-*  [Dataset]
-*  [Case Study Questions]
-*  [Solutions]
-*  [Limitations]
+*  Problem Statement
+*  Dataset
+*  Case Study Questions
+*  Solutions
+*  Limitations
   
 ---
 
